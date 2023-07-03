@@ -263,7 +263,7 @@ h6 {
 .main-nav a {
   display: block;
   position: relative;
-  color: #004289;
+  color: #9E69C5;
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
@@ -1340,7 +1340,7 @@ h6 {
 @media (max-width: 991px) {
   #header {
     height: 60px;
-    padding: 10px 0;
+    padding: 0px 0;
   }
 
   #header .logo h1 {
