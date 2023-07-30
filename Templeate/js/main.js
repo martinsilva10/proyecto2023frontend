@@ -118,6 +118,7 @@
     loop: true,
     items: 1
   });
-
+ // formulario
+ 
 })(jQuery);
 
